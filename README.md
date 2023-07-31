@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tuan Kiet</h1>
 <h3 align="center">A passionate FullStack Developer from VN</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Android , MEARN**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **hodinhtuankiet@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 

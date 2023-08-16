@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying on **Viet-Korea University**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS** **Lavarel**
 
 - 💬 Ask me about **JAVA , NODEJS**
 

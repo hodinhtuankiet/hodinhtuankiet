@@ -1,14 +1,4 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '16' # Use Node.js 16
-- name: Set an environment variable
-  run: echo "MY_OUTPUT_VAR=my-value" >> $GITHUB_ENV
 
 name: Generate Snake
 
@@ -31,10 +21,10 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-
+    
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
-
+      
     # Generates the snake  
       - uses: Platane/snk@master
         id: snake-gif
@@ -43,18 +33,18 @@ jobs:
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
-
+          
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
-
+          
       # Push the changes
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: main
           force: true
-
+          
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           # the output branch we mentioned above

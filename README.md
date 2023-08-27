@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuan Kiet</h1>
-<h3 align="center">You develop tech,tech develop you</h3>
+<h3 align="center">You may delay but time will not</h3>
 <img align="right" alt="Coding" width="350" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif" autoplay>
 
 

@@ -18,9 +18,36 @@
   </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hodinhtuankiet&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hodinhtuankiet" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hodinhtuankiet&show_icons=true&locale=en&theme=tokyonight" alt="hodinhtuankiet" /></p>
+<table>
+  <tbody>
+    <tr>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hodinhtuankiet">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hodinhtuankiet&theme=dracula"/>
+        </a>
+      </th>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hodinhtuankiet&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hodinhtuankiet&theme=dracula"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hodinhtuankiet">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hodinhtuankiet&theme=dracula"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hodinhtuankiet">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hodinhtuankiet&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hodinhtuankiet&&theme=tokyonight" alt="hodinhtuankiet" /></p>
 <hr/>

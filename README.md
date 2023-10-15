@@ -1,7 +1,6 @@
 
 
-<h1 align="center"> Hiiiiiiiii 👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">"You may delay but time will not"</h3>
+<h1 align="center">👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
    <img align="center" alt="Coding" width="350" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif" autoplay>
 </p>
@@ -19,20 +18,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <table>
-  <tbody>
-    <tr>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hodinhtuankiet">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hodinhtuankiet&theme=dracula"/>
-        </a>
-      </th>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hodinhtuankiet&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hodinhtuankiet&theme=dracula"/>
-        </a>
-      </th>
-    </tr>
-  </tbody>
   <tbody>
     <tr>
       <td>

@@ -1,6 +1,10 @@
-
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73995275/222146888-2ac7f3cc-a14b-4b98-9bd2-16fa99ea11f8.png">
+    <br>
+</div>
 
 <h1 align="center">👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <p align="center">
    <img align="center" alt="Coding" width="350" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif" autoplay>
 </p>
